@@ -2,7 +2,7 @@
 ![Github licence](https://img.shields.io/badge/license-MIT-blue.svg)
   
 ## Description
-This bloggins application allows users to share their thoughts and ideas around tech topics. After logging in users can create new posts, edit their posts, delete their posts, and comment on other users posts. The home page lists all of the user submissions while the dashboard will diplay the individual users posts. 
+This blogging application allows users to share their thoughts and ideas around tech topics. After logging in users can create new posts, edit their posts, delete their posts, and comment on other users posts. The home page lists all of the user submissions while the dashboard will diplay the individual users posts. 
 
 ## Table of Contents
 - [Installation](#installation)
